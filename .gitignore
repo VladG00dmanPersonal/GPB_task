@@ -1,3 +1,4 @@
 data/
 *.zip
 .venv
+catboost_info/
